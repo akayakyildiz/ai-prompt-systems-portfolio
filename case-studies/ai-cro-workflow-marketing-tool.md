@@ -1,46 +1,106 @@
-# Case 1.2 — AI CRO Workflow for a Marketing Tool Landing Page
-**Role:** AI Product Consultant  
-**Industry:** Marketing / Growth Tool
+# Case 1.2 — AI CRO Workflow (Marketing Tool)
 
-## Problem
-A feature-rich marketing tool landing page generated interest but conversion was inconsistent. The team lacked a repeatable CRO process and relied on ad-hoc rewrites.
+**Outcome:**  
+A reusable AI-driven CRO workflow that turns qualitative inputs into scored insights, controlled rewrites, and A/B-test-ready variants — enabling marketing and growth teams to move from intuition to repeatable decisions.
 
-## Context
-- Audience: marketers and growth teams
-- Constraints:
-  - Copy must work organically (no paid ads assumptions)
-  - Weekly iteration cadence (repeatable workflow)
-  - Easy execution for non-writers
+---
 
-## Solution (Workflow System)
-### Step 1 — Intake (inputs)
-- Primary persona + job-to-be-done
-- Primary CTA (trial/demo)
-- Top 3 objections
-- Current copy (headline, subheadline, key sections)
+## 1) Context
 
-### Step 2 — AI Evaluation (scored)
-Evaluate across:
-1) Clarity (what it is / who it is for / why now)
-2) Proof (logos, metrics, testimonials, credibility cues)
-3) Objections (risk, switching cost, setup time)
-4) CTA friction (next step clarity)
+Marketing and growth teams were producing frequent copy iterations, but decisions were:
+- subjective,
+- difficult to justify internally,
+- and hard to turn into structured experiments.
 
-### Step 3 — Controlled Revision
-- Preserve structure
-- Rewrite only: headline, subheadline, CTA block, proof section
-- Provide rationale per change
+There was no consistent system to evaluate ideas, prioritize changes, or explain *why* a variant existed.
 
-### Step 4 — A/B-ready Variants
-Generate 2 variants:
-A) Outcome/ROI-driven  
-B) Ease-of-use/speed-driven  
-Include hypothesis + suggested success metric.
+**Primary goal:**  
+Create a decision workflow that standardizes CRO thinking across teams.
 
-## Why This Works
-This turns CRO into an internal operating system: structured inputs, consistent evaluation, controlled rewrites, and testable variants.
+**Secondary goal:**  
+Ensure all outputs are immediately usable in A/B testing tools.
 
-## Outcome
-- Repeatable weekly CRO workflow
-- A/B-ready variants with hypotheses
-- Faster iteration and better internal alignment
+---
+
+## 2) My Role
+
+**Role:** AI Product Consultant / CRO Systems Designer  
+
+I designed an end-to-end CRO workflow that translates raw qualitative input into structured, test-ready outputs using prompt-driven logic.
+
+The workflow replaces ad-hoc copy changes with a controlled, explainable process.
+
+---
+
+## 3) Workflow Design
+
+The system operates in four stages:
+
+1. **Intake**  
+   - Page URL or copy block  
+   - Target audience / ICP  
+   - Conversion goal  
+   - Constraints (no redesign, brand tone, legal limits)
+
+2. **Scoring & Diagnosis**  
+   Each element is evaluated against CRO criteria:
+   - Value proposition clarity  
+   - Proof & credibility  
+   - Friction & commitment level  
+   - CTA specificity  
+
+   Outputs include:
+   - Strengths / weaknesses
+   - Ranked conversion blockers
+
+3. **Controlled Rewrite**  
+   Instead of freeform rewriting:
+   - Each change is tied to a specific blocker
+   - Each variant includes a clear hypothesis
+
+4. **A/B-Ready Variants**  
+   Final outputs include:
+   - Variant A / B copy
+   - Hypothesis per variant
+   - Primary metric to measure impact
+
+---
+
+## 4) Example Output
+
+- Diagnosed issue: Low value clarity in hero section  
+- Hypothesis: Clarifying *who this is for* will increase CTA clicks  
+- Variant B: Explicit ICP-focused headline  
+- Metric: Hero CTA click-through rate
+
+---
+
+## 5) Why This Matters
+
+- Eliminates subjective CRO debates  
+- Makes decisions reviewable and explainable  
+- Allows non-CRO teams to run disciplined experiments  
+- Scales across products and teams
+
+---
+
+## 6) Professional Notes
+
+- The workflow is intentionally modular  
+- Prompts are designed as decision tools, not copy generators  
+- All outputs are framed as testable hypotheses  
+
+---
+
+## 7) Links
+
+- Prompt Library: `../prompts/`
+- Repository Home: `../README.md`
+
+---
+
+## 8) Next Improvements (Optional)
+
+- Add automated prioritization scoring  
+- Connect to experiment results for feedback loops  
+- Package as an internal CRO assistant for teams
