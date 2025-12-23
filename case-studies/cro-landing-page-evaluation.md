@@ -1,6 +1,10 @@
 # Case 1.1 — CRO Landing Page Optimization (B2B SaaS)
 
-**Outcome:** A reusable prompt system that audits a landing page, identifies conversion blockers, and produces A/B-test-ready copy variants with hypotheses and measurement plan.
+Outcome:
+A reusable CRO prompt system that audits a B2B SaaS landing page,
+pinpoints conversion blockers, and delivers A/B-test-ready copy variants
+with explicit hypotheses and a measurement plan — enabling faster, more
+confident experimentation by growth teams.
 
 ---
 
@@ -16,7 +20,7 @@ New visitors were not understanding the value proposition quickly enough, leadin
 
 ## 2) My Role
 
-**Role:** Prompt Engineer (CRO / UX systems)  
+Role: CRO & UX Systems Consultant (Prompt Engineer)  
 I designed a structured workflow that turns a subjective “rewrite my page” request into a repeatable decision framework:
 
 - audit → diagnose → rewrite constraints → variant generation → experiment plan
