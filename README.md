@@ -12,3 +12,6 @@ AI prompt systems and case studies focused on:
 
 ## Prompt Library
 Reusable templates live under `/prompts`.
+## Services
+Details about available consulting packages can be found under
+[/services](./services).
