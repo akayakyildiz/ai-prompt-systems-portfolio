@@ -5,8 +5,12 @@ A reusable CRO prompt system that audits a B2B SaaS landing page,
 pinpoints conversion blockers, and delivers A/B-test-ready copy variants
 with explicit hypotheses and a measurement plan — enabling faster, more
 confident experimentation by growth teams.
-
----
+TL;DR
+- Problem: Traffic existed, conversion did not.
+- Diagnosis: Value proposition clarity + CTA commitment friction.
+- Solution: Structured CRO prompt system producing test-ready variants.
+- Result: Faster experimentation with clearer hypotheses (no redesign required).
+- ---
 
 ## 1) Context
 
