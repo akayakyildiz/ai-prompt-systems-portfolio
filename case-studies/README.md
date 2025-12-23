@@ -8,3 +8,5 @@
 
 - **Case 1.3 — CRO Consultant Rewrite (AI SaaS)**  
   Growth/CRO Consultant: copy alternatives + hypothesis-driven experiment plan.
+- **Case 2 — UX Checkout Friction Analysis (Mobile eCommerce)**  
+  UX Strategist: journey map + friction scoring + redesigned flow + experiment plan.
